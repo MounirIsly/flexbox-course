@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.6em;
+    background-color: rgb(206, 197, 206);
+    padding: 20px;
+}
+
+.container {
+    background-color: rgb(238, 245, 245);
+    padding: 20px;
+    margin: 50px auto;
+    border-radius: 5px;
+}
+.item {
+    margin: 5px;
+    background-color: rgb(62, 216, 236);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
